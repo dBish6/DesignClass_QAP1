@@ -1,1 +1,0 @@
-# DesignClass_QAP1
