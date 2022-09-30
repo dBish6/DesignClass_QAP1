@@ -1,4 +1,4 @@
-# DesignClass_QAP1
+# DesignClass_QAP1_SDAT
 
 ***Junit Assertion methods used***: assertNotNull(), assertSame(), assertThrows, assertEquals().
 
