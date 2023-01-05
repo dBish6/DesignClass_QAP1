@@ -1,4 +1,5 @@
 # DesignClass_QAP1_SDAT
+__This respository is now archived__ - the project has moved to https://github.com/dBish6/class-work/tree/master/Semester4/SDAT_QAP1.
 
 ***Junit Assertion methods used***: assertNotNull(), assertSame(), assertThrows, assertEquals().
 
